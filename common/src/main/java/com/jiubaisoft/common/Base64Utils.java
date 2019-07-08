@@ -19,7 +19,6 @@ public class Base64Utils {
 
 	/**
 	 * encodeBase64File:(将文件转成base64 字符串). <br/>
-	 * 
 	 * @author song
 	 * @param path
 	 *            文件路径
